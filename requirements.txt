@@ -1,0 +1,13 @@
+requests
+bs4
+html
+json
+lxml.html
+seleniumwire
+selenium
+datetime
+unicodedata
+urllib
+urllib3
+time
+http
